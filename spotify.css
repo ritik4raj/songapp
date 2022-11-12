@@ -1,0 +1,139 @@
+
+svg{
+  width: 23px;
+ fill:#aeada8;
+ padding-left: 25px;
+ 
+  
+}
+.home{
+ 
+  display: flex;
+  gap: 14px;
+ height: 41px;
+ 
+ }
+ 
+.container{
+ background-color: #040404;
+ width: 230px;
+ height: 700px;
+ margin-left: 0px;
+}
+
+h4{
+margin-top: 14px;
+font-size: 14px;
+font-family: 'Roboto';
+}
+h1{
+  margin-top: 20px;
+  color:#ffffff;
+  font-size: 22px;
+ 
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+  
+}
+.spotify-logo{
+ 
+  width: 40px;
+  padding-left: 22px;
+ fill:  #ffffff;
+ 
+}
+
+a{
+  text-decoration: none;
+  color:#b0aeaa
+}
+a:hover{
+ color:white;
+}
+.fil:hover{
+color: white;
+}
+body{
+  background-color: white;
+  margin: 0px;
+}
+.home2{
+  display:flex;
+  gap: 5px;
+ margin-top: 0px;
+ padding-top: 20px;
+}
+
+.home-font{
+  color: #ffffff;
+}
+.home-playlist{
+  display: flex;
+  gap: 14px;
+ height: 41px;
+ margin-top: 20px;
+
+}
+.home-page{
+  margin-top: 10px;
+  display: flex;
+  gap: 14px;
+  height: 41px;
+}
+.nav-logo{
+ background-color: black;
+  width: 13px;
+  margin-top: 13px;
+  border-radius: 50%;
+  padding: 7px 10px;
+ cursor: not-allowed;
+}
+.nav2-logo{
+  background-color: black;
+   width: 13px;
+   margin-top: 13px;
+   border-radius: 50%;
+   padding: 7px 10px;
+   margin-left: 15px;
+   cursor: not-allowed;
+ }
+
+.left-right{
+padding-left: 35px;
+background-color:#121212;
+height: 67px;
+
+
+
+}
+.nav-bar{
+  background-color: #141414;
+ display: flex;
+}
+.login-btn{
+  border-radius: 45px;
+  padding: 15px 35px;
+  font-family: Roboto;
+  background-color: #ffffff;
+  font-weight: bold;
+  margin-left: 20px;
+  margin-right: 25px;
+
+ 
+  
+}
+.login-btn:hover{
+background-color:whitesmoke ;
+transform: scale(1.1);
+}
+
+.signup-btn:hover{
+transform: scale(1.1);
+color: whitesmoke;
+}
+.signup-btn{
+  display: inline-block;
+ margin-left: 780px;
+margin-top: 0px;
+ font-family: roboto;
+}

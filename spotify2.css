@@ -1,0 +1,54 @@
+.spotify-playlist{
+ font-family: roboto;
+ color: #ffffff;
+ margin-left: 40px;
+}
+img{
+    border-radius: 10px ;
+}
+
+
+
+.song{
+    margin-top: 15px;
+    margin-left: 45px;
+   display: flex;
+   flex-direction: column;
+    padding: 20px;
+    background-color: #2f2f2f;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px 2px #444444;
+}
+   
+.song-detail{
+  
+   position: absolute;
+   margin-top: 80px;
+
+
+}
+.song-item{
+    display: flex;
+    flex-direction: row;
+}
+
+img:hover + .song-detail {
+    display: block;
+}
+.play{
+    
+   width: 60px; 
+}
+.play-logo{
+    fill: #1db954;
+  padding-left: 0px;
+  
+}
+.songs-play{
+   width: 140px;
+   
+    display: flex;
+}
+.image:hover{
+ transform: scale(1.1);
+}
